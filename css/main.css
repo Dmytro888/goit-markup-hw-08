@@ -548,7 +548,7 @@ img {
     max-width: 1600px;
     min-height: 600px;
     margin: 0 auto;
-    background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero/img-min.jpg);
+    background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero/imgmin.jpg);
     padding-top: 200px;
     padding-bottom: 200px;
   }
