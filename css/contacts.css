@@ -149,11 +149,11 @@ img {
   .menu-button .icon-cross {
     display: none;
   }
-  .menu-button.is-open .icon-cross {
-    display: block;
-  }
   .menu-button.is-open .icon-menu {
     display: none;
+  }
+  .menu-button.is-open .icon-cross {
+    display: block;
   }
   .menu-button .icon-cross:hover,
   .menu-button .icon-menu:hover {
