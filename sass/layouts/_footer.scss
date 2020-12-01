@@ -157,6 +157,7 @@
 
 @media screen and (min-width: 1200px) {
   .footer {
+    text-align: start;
     & .item + .item {
       margin-top: 9px;
     }

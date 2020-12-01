@@ -633,6 +633,9 @@ img {
 }
 
 @media screen and (min-width: 1200px) {
+  .footer {
+    text-align: start;
+  }
   .footer .item + .item {
     margin-top: 9px;
   }
